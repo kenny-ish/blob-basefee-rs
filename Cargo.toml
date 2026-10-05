@@ -1,0 +1,8 @@
+[package]
+name = "blob-basefee-rs"
+version = "0.1.0"
+edition = "2021"
+description = "EIP-4844 blob base fee calculator"
+license = "MIT"
+
+[dependencies]
